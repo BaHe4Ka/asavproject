@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ASAVProject</string>
+    <string-array name="prices">
+        <item>Рубль</item>
+        <item>Евро</item>
+        <item>Доллар</item>
+    </string-array>
+</resources>
